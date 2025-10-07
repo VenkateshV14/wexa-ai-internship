@@ -6,6 +6,7 @@ This project demonstrates containerizing a Next.js application, pushing the Dock
 ---
 
 ## Folder Structure
+```bash
 .
 └── .github/workflows/docker-publish.yml
 ├── Dockerfile
@@ -21,6 +22,7 @@ This project demonstrates containerizing a Next.js application, pushing the Dock
 ├── README.md
 ├── snapshots
 └── .gitignore
+```
 ---
 
 ## Setup Instructions
